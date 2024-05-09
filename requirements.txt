@@ -1,2 +1,8 @@
 langchain
+langchain_community
+langchain_prompts
+langchain_core
+langchain_openai
+langchain.pydantic_v1
+langchain.chains
 streamlit
